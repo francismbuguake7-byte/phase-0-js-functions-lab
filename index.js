@@ -1,4 +1,6 @@
-
+const calculateTax=function name(amount) {
+   return amount/10
+}
 
 
 
