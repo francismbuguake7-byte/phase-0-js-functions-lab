@@ -4,6 +4,12 @@ const calculateTax=function name(amount) {
 function convertToUpperCase(text) {
   return text.toUpperCase();
 }
+function findMaximum(num1, num2) {
+  return num1 > num2 ? num1 : num2;
+}
+
+
+
 
 
 
