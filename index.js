@@ -1,6 +1,9 @@
 const calculateTax=function name(amount) {
    return amount/10
 }
+function convertToUpperCase(text) {
+  return text.toUpperCase();
+}
 
 
 
